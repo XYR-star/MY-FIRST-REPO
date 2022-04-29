@@ -1,0 +1,11 @@
+1.git clone 直接加来自github上的ssh就可以了
+
+至于我最开始就设置了公钥了，就ok
+
+设置方法见https://www.cnblogs.com/linshengqian/p/15065553.html?msclkid=e0218f61c7c011ec8f839ef5e991a43b
+
+当然最开始我也是看的这个的。
+
+.ssh 文件 在user文件夹下面。
+
+2. git add 
